@@ -1,0 +1,4 @@
+name: RedCommandBlock
+version: '1.0-SNAPSHOT'
+main: com.ruskserver.redcommandblock.RedCommandBlock
+api-version: '1.20'
