@@ -1,8 +1,8 @@
-package com.ruskserver.quark_tool
+package com.ruskserver.redcommandblock
 
 import org.bukkit.plugin.java.JavaPlugin
 
-class Quark_tool : JavaPlugin() {
+class RedCommandBlock : JavaPlugin() {
     override fun onEnable() {
         // Plugin startup logic
         logger.info("RedCommandBlock by RuskLabo")
