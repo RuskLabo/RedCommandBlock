@@ -5,11 +5,11 @@ import org.bukkit.plugin.java.JavaPlugin
 class RedCommandBlock : JavaPlugin() {
     override fun onEnable() {
         // Plugin startup logic
-        logger.info("RedCommandBlock by RuskLabo")
+        logger.info("&c[RedCommandBlock]&7 by RuskLabo")
     }
 
     override fun onDisable() {
         // Plugin shutdown logic
-        logger.info("RedCommandblock shutdown")
+        logger.info("&c[RedCommandblock]&7 shutdown")
     }
 }
